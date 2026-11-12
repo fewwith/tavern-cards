@@ -13,3 +13,6 @@ Tavo / SillyTavern 角色卡（全中文、成人向、第一人称）。在 Tav
 - 克莱门汀（马里波萨头牌）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/westworld/clementine_cn.png
 - 阿米蒂斯（蛇纹亡命徒）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/westworld/armistice_cn.png
 - 夏洛特·黑尔（德罗斯高管）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/westworld/charlotte_cn.png
+
+## 超能力（superpower/）
+- 沈星澜（品牌设计师，会挪东西、改重力）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/superpower/xinglan_cn.png
