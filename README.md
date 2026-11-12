@@ -16,3 +16,6 @@ Tavo / SillyTavern 角色卡（全中文、成人向、第一人称）。在 Tav
 
 ## 超能力（superpower/）
 - 沈星澜（品牌设计师，会挪东西、改重力）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/superpower/xinglan_cn.png
+
+## 都市 SM（sm/）
+- 苏晚棠（汉服工作室老板兼古典舞私教，经验丰富、会反抗会挑衅的M）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/sm/wantang_cn.png
