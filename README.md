@@ -19,3 +19,4 @@ Tavo / SillyTavern 角色卡（全中文、成人向、第一人称）。在 Tav
 
 ## 都市 SM（sm/）
 - 苏晚棠（汉服工作室老板兼古典舞私教，经验丰富、会反抗会挑衅的M）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/sm/wantang_cn.png
+- 顾昭雪（当代艺术画廊主理人，冷静、玩法多变的S）：https://raw.githubusercontent.com/fewwith/tavern-cards/main/sm/zhaoxue_cn.png
